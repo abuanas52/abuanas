@@ -122,3 +122,18 @@ SHA256:  20a7e7716cc1cb088136e92b0128ef12fa57670296023f93f3ec73c7be94916e
 Section:  Utilities
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  NewTerm 2
+
+
+Package:  me.kritanta.gravitation
+Version:   0.1.0
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends :   mobilesubstrate
+Filename: debs/me.kritanta.gravitation_0.1.0_iphoneos-arm.deb
+Size:   147470
+MD5sum:   896302fbb6d2b07ae2a6e9164f5a70d6
+SHA1:   c7bef2ffa894cceffbd739830642bc5aa9700a8e
+SHA256:    dffb436cc90ace7c64aafcf499ef9b59577c9c405f73dcd1801b25e4181281e0
+Section:   Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:   Gravitation
