@@ -188,3 +188,20 @@ SHA256:   ea2d78c17359e117faa6efbf07c60e1e765834d0b95bc9b0863253ffec1c488d
 Section:  Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  FastAnimator
+
+
+Package:  com.talal.alotaibi.arabicappstore
+Version:  1.0.1
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends :  mobilesubstrate, firmware (>= 12.0)
+Priority : optional
+Compatibility : iOS 12+
+Filename: debs/arabicappstore_1.0.1.deb
+Size:  13134
+MD5sum:  c8c8cbbebff3e548115da16b66953254
+SHA1: de534261209703b046cbbf05b362242db784fae0
+SHA256:  68dbf415df211e034be58d687fe759c3a3910daf1375db6f9ff4a57e0ad6600d
+Section: Applications
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name: Arabic AppStore
