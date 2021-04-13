@@ -124,6 +124,7 @@ Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  NewTerm 2
 
 
+
 Package:  me.kritanta.gravitation
 Version:   0.1.0
 Architecture: iphoneos-arm
@@ -137,6 +138,7 @@ SHA256:    dffb436cc90ace7c64aafcf499ef9b59577c9c405f73dcd1801b25e4181281e0
 Section:   Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:   Gravitation
+
 
 
 
