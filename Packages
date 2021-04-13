@@ -155,3 +155,22 @@ SHA256:  51bfb93e03cde1f9e6a6ca524e4ee5888ac0ecc6ab1ad6dd7521ac7b1d43895c
 Section:   Utilities
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:   Aspell
+
+
+
+
+Package:   com.spark.snowboard
+Version:  
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends : mobilesubstrate, preferenceloader
+Conflicts : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/
+Size:  1562164
+MD5sum:   a4dc9696690c0711b57d8c8a327e7fcf
+SHA1:   389e7e7dc840e46aa0c601c86a6a42273005e91f
+SHA256:   f517b7f5160a3d27282ecee016a23ecd1a6ace8dd7e23d63aca61e24a8ad2045
+Section:   Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:  SnowBoard
