@@ -108,7 +108,7 @@ Architecture: iphoneos-arm
 Maintainer: abuanas
 Depends:   mobilesubstrate, ws.hbang.common (>= 1.11)
 Conflicts:  iOS 10+
-Filename: deb/6069cb8d3c2af0001a399d87.deb
+Filename: debs/6069cb8d3c2af0001a399d87.deb
 Size:  445000
 MD5sum:  81fc7a37df57c7d05c468495065e54e1
 SHA1: e60a1e66616e01f229d10ac45e182813f1e3be27
