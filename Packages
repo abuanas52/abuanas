@@ -173,3 +173,18 @@ Section:   Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  SnowBoard
 
+
+
+Package:  kr.xsf1re.fastanimator
+Version:  0.1
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends :  mobilesubstrate (>= 0.9.5000)
+Filename: debs/kr.xsf1re.fastanimator_0.1_iphoneos-arm.deb
+Size:  16662
+MD5sum:   53792f446f02f118dd0ea920720c19ba
+SHA1:  0DEF89304E41B1D2548918626DAFAEB7DC59A1A0
+SHA256:   ea2d78c17359e117faa6efbf07c60e1e765834d0b95bc9b0863253ffec1c488d
+Section:  Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:  FastAnimator
