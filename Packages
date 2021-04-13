@@ -102,5 +102,20 @@ Depiction: https://abuanas52.github.io/abuanas/
 Name:  A-Font
 
 
+Package:   prasa.instagramplus
+Version:   1.7.7
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends:   mobilesubstrate, ws.hbang.common (>= 1.11)
+Conflicts:  iOS 10+
+Filename: deb/6069cb8d3c2af0001a399d87.deb
+Size: 
+MD5sum:  81fc7a37df57c7d05c468495065e54e1
+SHA1: e60a1e66616e01f229d10ac45e182813f1e3be27
+SHA256:  c468462d7402caf9a1bfc86663fba9bc041fd30198a75948bdef9a90a27bcd21
+Section:  Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:  InstagramPlus (Legacy)
+
 
 
