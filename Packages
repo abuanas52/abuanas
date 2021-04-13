@@ -34,6 +34,8 @@ Section:  Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name:   YouTube Reborn
 	
+
+
 Package: com.cokepokes.appstoreplusplus	
 Version: 0.9.16-2
 Architecture: iphoneos-arm
@@ -48,6 +50,8 @@ Section: Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name: appstore++
 	
+
+
 Package: com.tigisoftware.filza64bit
 Version: 3.8.2-6
 Architecture: iphoneos-arm
@@ -63,6 +67,8 @@ Section:  Utilities
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  Filza File Manager 
 	
+
+
 Package: com.rpgfarm.a-bypass
 Version:  1.5.3
 Architecture: iphoneos-arm
@@ -78,6 +84,8 @@ Section: Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name: A-Bypass
 	
+
+
 Package:  com.rpgfarm.a-font
 Version: 1.9.3
 Architecture: iphoneos-arm
@@ -96,6 +104,8 @@ Section: Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  A-Font
 
+
+
 Package:   prasa.instagramplus
 Version:   1.7.7
 Architecture: iphoneos-arm
@@ -110,6 +120,8 @@ SHA256:  c468462d7402caf9a1bfc86663fba9bc041fd30198a75948bdef9a90a27bcd21
 Section:  Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  InstagramPlus (Legacy
+
+
 
 Package:   net.howett.cydelete
 Version:   2.0.5-1
@@ -126,6 +138,8 @@ Section:  Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name: CyDelete
 
+
+
 Package:   aspell
 Version:   0.60.6.1-1
 Architecture: iphoneos-arm
@@ -140,6 +154,8 @@ SHA256:  51bfb93e03cde1f9e6a6ca524e4ee5888ac0ecc6ab1ad6dd7521ac7b1d43895c
 Section:   Utilities
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:   Aspell
+
+
 
 Package:   com.spark.snowboard
 Version:  
