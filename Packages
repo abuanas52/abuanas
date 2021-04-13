@@ -139,3 +139,19 @@ Section:  Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name: CyDelete
 
+
+
+Package:   aspell
+Version:   0.60.6.1-1
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Pre-Depends : dpkg (>= 1.14.25-8)
+Priority : optional
+Filename: debs/
+Size:   263748
+MD5sum:   e73d8905663ca757e748a0e4912358e5
+SHA1:   4a55d3020e3b5ea418e5ed2c47347780a1826b6b
+SHA256:  51bfb93e03cde1f9e6a6ca524e4ee5888ac0ecc6ab1ad6dd7521ac7b1d43895c
+Section:   Utilities
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:   Aspell
