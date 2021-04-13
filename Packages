@@ -102,6 +102,11 @@ Depiction: https://abuanas52.github.io/abuanas/
 Name:  A-Font
 
 
+Section: Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  A-Font
+
+
 Package:   prasa.instagramplus
 Version:   1.7.7
 Architecture: iphoneos-arm
@@ -115,7 +120,6 @@ SHA1: e60a1e66616e01f229d10ac45e182813f1e3be27
 SHA256:  c468462d7402caf9a1bfc86663fba9bc041fd30198a75948bdef9a90a27bcd21
 Section:  Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
-Name:  InstagramPlus (Legacy)
-
+Name:  InstagramPlus (Legacy
 
 
