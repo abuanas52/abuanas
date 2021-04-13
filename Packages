@@ -202,11 +202,12 @@ Maintainer:  Abu Anas
 Depends :   mobilesubstrate, preferenceloader
 Conflicts :  anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename:  debs/1.4.12~Beta4.deb
-Size:   1562164
-MD5sum:  a4dc9696690c0711b57d8c8a327e7fcf
-SHA1:   389e7e7dc840e46aa0c601c86a6a42273005e91f
-SHA256:   f517b7f5160a3d27282ecee016a23ecd1a6ace8dd7e23d63aca61e24a8ad2045
-Section:  Tweaks
+Filename:  debs/1.4.9~Beta4.deb
+Size:  1529774
+MD5sum:  b1166161f4307b45727d4d08c4b69f65
+SHA1:   8571c49a7fb84d8f4369376fd32eb4e568f7146d
+SHA256:   54767495a75d11c4412917d7c0d10d3e020567695d9041f6064f728d632c976b
+Section:   Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  SnowBoard
+
