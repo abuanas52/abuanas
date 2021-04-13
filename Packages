@@ -137,3 +137,20 @@ SHA256:    dffb436cc90ace7c64aafcf499ef9b59577c9c405f73dcd1801b25e4181281e0
 Section:   Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:   Gravitation
+
+
+
+Package:  ws.hbang.quanta
+Version:   1.0.1
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :   firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Compatibility : iOS 13+
+Filename: debs/ws.hbang.quanta_1.0.1_iphoneos-arm.deb
+Size:   19034
+MD5sum:   f54d8fed53bc553b23283236ea0a112d
+SHA1:   1cbd2bbd9b8ef282c9c9f1ea754fbcacddc995e1
+SHA256:    b7bbf9626e37806a11972865f35fb98d7683cc90b6dabda616048693993482c9
+Section:   Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:   Quanta
