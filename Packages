@@ -156,3 +156,20 @@ SHA256:    b7bbf9626e37806a11972865f35fb98d7683cc90b6dabda616048693993482c9
 Section:   Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:   Quanta
+
+
+
+Package:  io.github.worksbybbs.yellowdotssettings
+Version:   1.2
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :   firmware (>=7.0)
+Compatibility :  iOS 7+
+Filename: debs/io.github.worksbybbs.yellowdotssettings.deb
+Size:   73920
+MD5sum:   74750373273512cc2d0759dfddd0b6d2
+SHA1:    09a392ade3ab9caaa6fb03aa8a9d689a901e6404
+SHA256:    b12091ebddbd92eaaa4d16eca79f986e0f967c7c2608d89e9e1f8edb92dd7324
+Section:   Themes
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:   Yellow Dots Settings
