@@ -173,3 +173,22 @@ SHA256:    b12091ebddbd92eaaa4d16eca79f986e0f967c7c2608d89e9e1f8edb92dd7324
 Section:   Themes
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:   Yellow Dots Settings
+
+
+
+Package:  me.alfhaily.cercube
+Version:   5.2.15
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :   firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Compatibility :  me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Priority : optional
+Compatibility : iOS 9+
+Filename: debs/me.alfhaily.cercube_5.2.15_iphoneos-arm.deb
+Size:   3797644
+MD5sum:   d81a350626d48f24ee3153d7168c778c
+SHA1:   0bce52460cec41a3ab34ac50daf02f8aa1a99a6f
+SHA256:   9293a7cbd3bb3ef8578732b0d299330727a7070f1681f4a4a7bfc8ccd49743a2
+Section:  Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:   Cercube for YouTube
