@@ -211,3 +211,19 @@ Section:   Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  SnowBoard
 
+
+Package:   com.icraze.bettersettingsfix
+Version:   1.0
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends : mobilesubstrate
+Compatibility : iOS 13+
+Filename:  debs/5e81d983f67ae40029d1b8e0.deb
+Size:   3280
+MD5sum:   94613335d4e4a2a0b5e1cec74b6948d1
+SHA1:   6838f1731d6e19a6513b52e8d8a6e26b44365eea
+SHA256:   93a8d17bf55c75e69de080ca75b5f4b4df4357d41131902c983a3deb39520a57
+Section:   Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:   BetterSettings Fix
+
