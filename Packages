@@ -295,3 +295,20 @@ SHA256:  a6a57bca528ccace35cbd0083f71bf6984e6e7af05659193a29ba7fc06137d10
 Section:   Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  RoundedCCTV
+
+
+
+Package:   com.ryannair05.cylinder
+Version :   1.0.3
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :   firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Compatibility :   iOS 11+
+Filename:  debs/com.ryannair05.cylinder_1.0.3_iphoneos-arm.deb
+Size:    229334
+MD5sum:   f466851a3d850dc4312000169609031a
+SHA1:   a9547fcb2ca1df9ddfc38635de426a6d07ab8b25
+SHA256:   7322f4b705e0ae4a25852395262b3764bb395c536dfe33e8cf08def403c3ec23
+Section:   Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:  Cylinder Reborn
