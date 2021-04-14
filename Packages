@@ -212,6 +212,7 @@ Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  SnowBoard
 
 
+
 Package:   com.icraze.bettersettingsfix
 Version:   1.0
 Architecture: iphoneos-arm
@@ -260,3 +261,20 @@ SHA256:   a25bd5d2a3c4581d387085a5b74a3a61db193af95c40d5d31e2d59c4f8eeb9e3
 Section:   Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  AutoAnswer XS (iOS 11 to 14)
+
+
+
+Package:  dev.aryanjnambiar.wonderbar
+Version :   1.1
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :   mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12), ws.hbang.alderis, preferenceloader
+Compatibility :   iOS 12+
+Filename:  debs/dev.aryanjnambiar.wonderbar_1.1_iphoneos-arm.deb
+Size:    24958
+MD5sum:   fd5ace56a34c3c8659ff2fbebcff8fa8
+SHA1:    2713c9e3e81a18c6b8729b5d18402161783409f0
+SHA256:   0bf5cdab724751624279885211baf629f3b0fb27ff906ba24a1eb0f767bcfcea
+Section:   Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:  Wonderbar
