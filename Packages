@@ -311,3 +311,20 @@ SHA256:   7322f4b705e0ae4a25852395262b3764bb395c536dfe33e8cf08def403c3ec23
 Section:   Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  Cylinder Reborn
+
+
+
+Package:  com.opa334.safariplus
+Version :   1.7.16-2
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :   firmware (>=8.0), mobilesubstrate, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.opa334.libundirect (>=1.1) | firmware (<<14.0)
+Compatibility :  iOS 8+
+Filename:  debs/com.opa334.safariplus_1.7.16-2_iphoneos-arm.deb
+Size:   1195488
+MD5sum:  dd93de549b93b92c5ec4078156c6339a
+SHA1:  8fafbc6dbe946682afb8f85004d2c40a885c8538
+SHA256:  31c48f32bb53ab228357d53abdd7b3a61cf6db68db253f1995ce697794a6c1b3
+Section:  Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name: Safari Plus
