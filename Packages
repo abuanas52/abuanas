@@ -243,3 +243,20 @@ SHA256:    e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 Section:   Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:   SplashAdBlock
+
+
+
+Package:   net.limneos.autoanswerx
+Version :   0.2-67
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :  mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Compatibility :   iOS 11+
+Filename:  debs/autoanswerx_0.2-67.deb
+Size:   151172
+MD5sum:  0cc816e21af89518d5afc3976e0c0bcb
+SHA1:   eafb501ee061cd0c864510e33852e6f42fb55f82
+SHA256:   a25bd5d2a3c4581d387085a5b74a3a61db193af95c40d5d31e2d59c4f8eeb9e3
+Section:   Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:  AutoAnswer XS (iOS 11 to 14)
