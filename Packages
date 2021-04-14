@@ -278,3 +278,20 @@ SHA256:   0bf5cdab724751624279885211baf629f3b0fb27ff906ba24a1eb0f767bcfcea
 Section:   Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  Wonderbar
+
+
+
+Package:  com.ikilledappl3.roundedcctv
+Version :   1.0-1
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :  mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Compatibility :  tvOS 13+
+Filename:  debs/com.ikilledappl3.roundedcctv_1.0-1_appletvos-arm64.deb
+Size:   6928
+MD5sum:  eb0f3537cad5b2953f030befe80ea924
+SHA1:   87a3844c8e8e921e3273f1d2e625fc38ed31a6c0
+SHA256:  a6a57bca528ccace35cbd0083f71bf6984e6e7af05659193a29ba7fc06137d10
+Section:   Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:  RoundedCCTV
