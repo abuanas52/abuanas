@@ -346,3 +346,22 @@ SHA256:  0765f62007897f79cda9870ab98e80b6b8e6604ca642a906586126d6445c2732
 Section:  Utilities
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  AltStore
+
+
+
+Package:  com.yuosaf01.addsource
+Version :   3.2
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :  mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts : 
+Replaces :
+Compatibility :  iOS 8+
+Filename:  debs/addsource_3.2.deb
+Size:  212528
+MD5sum:  3b1c818f6bbc60d21e2e3862e3731076
+SHA1:  a871dce4a87db07fa8152108220f3bb5574ad567
+SHA256:  26e829d3507afba9e95a3a71ed5696152a375690706ae4f3bfb702a87e2d915a
+Section:  Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  AddSource
