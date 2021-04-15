@@ -328,3 +328,21 @@ SHA256:  31c48f32bb53ab228357d53abdd7b3a61cf6db68db253f1995ce697794a6c1b3
 Section:  Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name: Safari Plus
+
+
+Package:  com.ichitaso.altstore
+Version :   1.4.5
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :  firmware (>= 12.2), com.rileytestut.altdaemon
+Conflicts :  com.rileytestut.altstore.alpha.jailbroken, com.rileytestut.AltStore
+Replaces : com.ichitaso.altstore
+Compatibility :  iOS 12
+Filename:  debs/com.ichitaso.altstore_1.4.5_iphoneos-arm.deb
+Size:  4591092
+MD5sum:  2ab8a810082f931e4a74f3e0199deabd
+SHA1:  a3cf5ddaf7c21d093111f5bc51510135822a6bb0
+SHA256:  0765f62007897f79cda9870ab98e80b6b8e6604ca642a906586126d6445c2732
+Section:  Utilities
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  AltStore
