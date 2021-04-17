@@ -374,7 +374,7 @@ Architecture: iphoneos-arm
 Maintainer:  Abu Anas
 Pre-Depends : firmware (>= 11.0)
 Depends :  mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Conflicts :  	•	com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Conflicts :  com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
 Replaces :  com.ichitaso.powerselector11
 Compatibility :  iOS 11
 Filename:  debs/com.ichitaso.powerselector11_1.3.3_iphoneos-arm.deb
