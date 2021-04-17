@@ -1,20 +1,21 @@
 Package:  com.exile90.icleanerpro
-Version :  7.9.1
+Version :   7.9.1
 Architecture: iphoneos-arm
-Maintainer: Abuanas
-Depends:  firmware (>= 4.0), findutils, apt | apt7
-Conflicts :  org.altervista.exilecom.icleaner
+Maintainer:  Abu Anas
+Depends :  firmware (>= 4.0), findutils, apt | apt7
+Conflicts : org.altervista.exilecom.icleaner
 Replaces : org.altervista.exilecom.icleaner
-Compatibility : iOS 4+
-Filename: debs/com.exile90.icleanerpro_7.9.1_iphoneos-arm.deb
-Size:   5438464
-MD5sum:  f3be72f5758b319260f7e2ae14c0652c
-SHA1:  cc510615e5e32404bf3a6208ee3dda0419de7d0c
-SHA256:  29ebb0ebc82306623ef5ed6a8437fca9d7789d6d502b9a97b8a65c6dae6492fe
+Compatibility :  iOS 4+
+Filename:  debs/com.exile90.icleanerpro_7.9.1_iphoneos-arm.deb
+Size:  4786998
+MD5sum:  e1529be5a0eceb137f0a07e8c31f5349
+SHA1:  d23ee71e004892d2035550af798212dde37acfec
+SHA256:  822bce40f9954226457fd2a5586e974fa8e302e767134e6b14fe7a70ecaa60d5
 Section:  Utilities
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  iCleaner Pro
-	
+
+
 
 
 Package: com.twickd.sarahh12099.youtube-reborn
