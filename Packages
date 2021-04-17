@@ -231,20 +231,21 @@ Name:   BetterSettings Fix
 
 
 
-Package:   com.he55.splashadblock
-Version :  1.4
+Package:  com.he55.splashadblock
+Version :   1.4
 Architecture: iphoneos-arm
 Maintainer:  Abu Anas
-Depends :   firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Compatibility :   iOS 9+
+Depends :  firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Compatibility :  iOS 9+
 Filename:  debs/splashadblock_1.4.deb
 Size:  16680
-MD5sum:   d41d8cd98f00b204e9800998ecf8427e
-SHA1:    da39a3ee5e6b4b0d3255bfef95601890afd80709
-SHA256:    e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-Section:   Tweaks
+MD5sum: 772c280bfbe0dbf6cd77037a741750e4
+SHA1:  49db4a4c091877fce23784ec234e66c6ae2a38bd
+SHA256: 3f8623b5c0d54a929a941b26a79e7275db025b1da2396b13a449b11698cbc114
+Section:  Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name: SplashAdBlock
+
 
 
 Package:   net.limneos.autoanswerx
