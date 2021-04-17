@@ -197,7 +197,7 @@ Name:   Cercube for YouTube
 
 
 Package:  com.spark.snowboard
-Version:   
+Version:   1.4.9~Beta4
 Architecture: iphoneos-arm
 Maintainer:  Abu Anas
 Depends :   mobilesubstrate, preferenceloader
