@@ -404,3 +404,20 @@ SHA256:  b5acba57adbabdc4229e6e3c933af20bfbba76b0edc315fb55b9612e5d5bb046
 Section:  Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  Rocket for Instagram
+
+
+
+Package: com.p2kdev.snapper2cc
+Version :  1.0
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends : mobilesubstrate,com.opa334.ccsupport,com.jontelang.snapper2.packix
+Compatibility :  iOS 11+
+Filename:  debs/5e5a8d33403103001a4b7cd5.deb
+Size:  12554
+MD5sum:  a9d70fb1d0356cf1b8e7226dbc81aab4
+SHA1:  d28dba60a64ca58ec5d9125ae97dc9ebcc4c3772
+SHA256:  87016157126e38c091fe8f77e700a24273156f4b465f5a7610ec4c42953ea118
+Section: Control Center
+Depiction: https://abuanas52.github.io/abuanas/
+Name: Snapper2 CC Toggle
