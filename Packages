@@ -5,7 +5,7 @@ Maintainer:  Abu Anas
 Depends :  firmware (>= 4.0), findutils, apt | apt7
 Conflicts : org.altervista.exilecom.icleaner
 Replaces : org.altervista.exilecom.icleaner
-Compatibility :  iOS 4+
+Compatibility :  iOS 10+
 Filename:  debs/com.exile90.icleanerpro_7.9.1_iphoneos-arm.deb
 Size:  4786998
 MD5sum:  e1529be5a0eceb137f0a07e8c31f5349
