@@ -385,3 +385,21 @@ SHA256:  a60c4ba3fd59462a90829392d8d02b4b6f801d534cad55023d0effdf1b6ed17f
 Section:  Utilities
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  PowerSelector (iOS 11 to 14)
+
+
+
+Package:  me.alfhaily.rocket
+Version :   3.7.22
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :   firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Priority : optional
+Compatibility :   iOS 8+
+Filename:  debs/me.alfhaily.rocket_3.7.22_iphoneos-arm.deb
+Size:  2365396
+MD5sum:  0336c8be486af0c15ca181f4c86d0e7f
+SHA1:  0ca93067226986ed634f1e465ce57cacbdb306e6
+SHA256:  b5acba57adbabdc4229e6e3c933af20bfbba76b0edc315fb55b9612e5d5bb046
+Section:  Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  Rocket for Instagram
