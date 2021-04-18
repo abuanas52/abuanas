@@ -474,3 +474,19 @@ Section:  Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  TweakCompatible for Zebra
 
+
+
+Package:  com.minazuki.fiveicondock
+Version :   0.0.1
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :  mobilesubstrate
+Compatibility : iOS 13
+Filename:  debs/5f6a047cba9db6001b9afd31.deb
+Size:  3438
+MD5sum:  e1f0369c71e182fe31dca8a35a141f55
+SHA1:  5b721dfcc85eeb53757a84cc86862f8f5ade1c4d
+SHA256:  ee46bb9a442012f65f9183728dbf20303ee0897e67534995fa2fcd27d103b759
+Section:  Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  FiveIconDock (iOS14)
