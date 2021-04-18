@@ -332,6 +332,7 @@ Depiction: https://abuanas52.github.io/abuanas/
 Name: Safari Plus
 
 
+
 Package:  com.ichitaso.altstore
 Version :   1.4.5
 Architecture: iphoneos-arm
@@ -425,7 +426,6 @@ Name: Snapper2 CC Toggle
 
 
 
-
 Package: com.mrgcgamer.colormenotifs
 Version :  1.5.2
 Architecture: iphoneos-arm
@@ -457,3 +457,20 @@ SHA256:  283231ed5d278552a0c79c350c7790d7b6af768af5160b83427934ca41bee43e
 Section:  Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  QuitAll
+
+
+
+Package:  com.samgisaninja.tweakcompatible-zebra
+Version :   1.1.5
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :  mobilesubstrate, xyz.willy.zebra
+Filename:  debs/com.samgisaninja.tweakcompatible-zebra_1.1.5_iphoneos-arm.deb
+Size:  97558
+MD5sum:  8e6e5b4159dbd2e04a8a04b90af50cba
+SHA1:  3f5265a1b7213678be1d23ee6f9f11dd250eaac8
+SHA256:   6b3ae3409faf19676fd5522b8a42be82694d55dcad80b56e998978c7697d8cd3
+Section:  Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  TweakCompatible for Zebra
+
