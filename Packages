@@ -422,3 +422,21 @@ SHA256:  87016157126e38c091fe8f77e700a24273156f4b465f5a7610ec4c42953ea118
 Section: Control Center
 Depiction: https://abuanas52.github.io/abuanas/
 Name: Snapper2 CC Toggle
+
+
+
+
+Package: com.mrgcgamer.colormenotifs
+Version :  1.5.2
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :  mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker (>= 0.0.14)
+Compatibility :  iOS 13+
+Filename:  debs/5f737599d9ec29001bff44cf.deb
+Size:  1026458
+MD5sum:  ff2931850cab904548ec2e756d37f3eb
+SHA1:  c79397f0c96280ab00b138f23eeaad7d50d53b43
+SHA256:  5da19dc18f1eec381e559083eb729e922e370c95fe3437b0af19627e30ba812d
+Section: Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  ColorMeNotifs
