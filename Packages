@@ -440,3 +440,20 @@ SHA256:  5da19dc18f1eec381e559083eb729e922e370c95fe3437b0af19627e30ba812d
 Section: Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  ColorMeNotifs
+
+
+
+Package: com.daveapps.quitall
+Version :  3.0
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :  mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist
+Compatibility :  iOS 13+
+Filename:  debs/com.daveapps.quitall_3.0_iphoneos-arm.deb
+Size:  187804
+MD5sum:  e5eb2b46a37e3e9e7c1195af2feb11da
+SHA1:  dc58e52652b125daf463bb8ac68ea8080f914b03
+SHA256:  283231ed5d278552a0c79c350c7790d7b6af768af5160b83427934ca41bee43e
+Section:  Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  QuitAll
