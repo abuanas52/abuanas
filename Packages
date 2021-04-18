@@ -491,3 +491,21 @@ SHA256:  ee46bb9a442012f65f9183728dbf20303ee0897e67534995fa2fcd27d103b759
 Section:  Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  FiveIconDock (iOS14)
+
+
+
+Package:  com.cydiageek.myfolderstitles
+Version :   
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :  mobilesubstrate, firmware (>= 12.0), preferenceloader, com.peterdev.libpddokdo, org.thebigboss.libcolorpicker
+Priority : optional
+Compatibility :  iOS 12+
+Filename:  debs/myfolderstitles_1.0.0.deb
+Size:  72096
+MD5sum:  e464c742263ccfe087cd79f28bb46e34
+SHA1:  5a1dd533b29b21294447c70920ec94f2b92f74e8
+SHA256:  3eb3fba63f18990e6277ac4606c014bd1724abcd10e0f788e14dc60581821703
+Section:  Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  MyFoldersTitles
