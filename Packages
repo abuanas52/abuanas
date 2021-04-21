@@ -513,18 +513,19 @@ Name:  MyFoldersTitles
 
 
 
-Package: com.ivanc.accent
-Version :   1.4.0
+Package: com.miro.shortmoji2
+Version :   1.1.3
 Architecture: iphoneos-arm
 Maintainer:  Abu Anas
-Depends : mobilesubstrate, firmware (>= 10.0), preferenceloader, ws.hbang.common, applist
-Priority : optional
-Compatibility :  iOS 10
-Filename:  debs/accent_1.4.0.deb
-Size: 42652
-MD5sum: e2b44176e9407e0de02936af7cdb6456
-SHA1: 9202f65cc76d8dff649cdf605dc326ee979e2e9f
-SHA256: 0524c48c170493bb0f405c482c4e61eaa07a4afb56afb428f08698aa694950ef
+Depends : firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.miro.libmiro (>= 1.0.7), com.miro.libmiroprefs (>= 1.0.2)
+Conflicts : com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.ya7yajb.shortmoji, com.miro.shortmoji
+Compatibility :  iOS 13
+Filename:  debs/com.miro.shortmoji2_1.1.3_iphoneos-arm.deb
+Size: 766430
+MD5sum: 465688fe101ff6e4570adbfbc517e96e
+SHA1: 475bf1ba4776c34f8fcbb88907446a79674c175a
+SHA256: 4dc06ee5646c3e4e498f256a07682a8f14bc07cc2cb10dd59769686fea7cb206
 Section: Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
-Name: Accent
+Name:  Shortmoji 2
+
