@@ -587,3 +587,24 @@ SHA256: 439318b216ac5bbd55a9e6055bbfc9074ff54a4075b9b2068585a0381ec70cf2
 Section: Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name: iKSettings
+
+
+
+Package:  net.limneos.audiorecorderxs
+Version :  3.7-42
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Pre-Depends :
+Depends : mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0)
+Conflicts :  net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Priority :
+Replaces : 	net.limneos.audiorecorder,net.limneos.audiorecorderx
+Compatibility :  iOS 12+
+Filename:  debs/net.limneos.audiorecorderxs_3.7-42_iphoneos-arm.deb
+Size:  3816982
+MD5sum:  a9cc1c6869e6be7d6925d439b253a1a4
+SHA1:  cc3b85c852976b0e8fcbd44c226216b42b55ca2f
+SHA256:  8cb654665e84a595cdfdbb07956b1b2c3163c956ee0a573461bde99de93c0452
+Section:  Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name: AudioRecorder XS (iOS 12/13/14)
