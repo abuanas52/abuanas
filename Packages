@@ -529,3 +529,20 @@ Section: Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  Shortmoji 2
 
+
+
+Package: com.itaysoft.wifilist
+Version :   1.0.0
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :
+Conflicts :
+Compatibility : 
+Filename:  debs/com.itaysoft.wifilist_1.0.0_iphoneos-arm.deb
+Size: 910284
+MD5sum: 67bc674ff299d7c8dcd19bb3a57f0c84
+SHA1: f4738968c03952928b1b2b06d2ae07c075e06f48
+SHA256: d617a4ace06878244e3f506a4250789309ea7660af395fedf70997b5076060b5
+Section: Utilities
+Depiction: https://abuanas52.github.io/abuanas/
+Name: WiFi List
