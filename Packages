@@ -510,3 +510,21 @@ SHA256:  3eb3fba63f18990e6277ac4606c014bd1724abcd10e0f788e14dc60581821703
 Section:  Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  MyFoldersTitles
+
+
+
+Package: com.ivanc.accent
+Version :   
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends : mobilesubstrate, firmware (>= 10.0), preferenceloader, ws.hbang.common, applist
+Priority : optional
+Compatibility :  iOS 10
+Filename:  debs/accent_1.4.0.deb
+Size: 42652
+MD5sum: e2b44176e9407e0de02936af7cdb6456
+SHA1: 9202f65cc76d8dff649cdf605dc326ee979e2e9f
+SHA256: 0524c48c170493bb0f405c482c4e61eaa07a4afb56afb428f08698aa694950ef
+Section: Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name: Accent
