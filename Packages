@@ -546,3 +546,23 @@ SHA256: d617a4ace06878244e3f506a4250789309ea7660af395fedf70997b5076060b5
 Section: Utilities
 Depiction: https://abuanas52.github.io/abuanas/
 Name: WiFi List
+
+
+
+Package: com.creaturecoding.shuffle
+Version :  1.3.4
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Pre-Depends : firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Depends : com.creaturecoding.libcspreferences
+Conflicts : com.cpdigitaldarkroom.placeholder
+Replaces : com.cpdigitaldarkroom.placeholder
+Compatibility :  iOS 8+
+Filename:  debs/libghc-random-shuffle-dev_0.0.4-11+b2_amd64.deb
+Size: 24,272
+MD5sum: 35c4a80d3e15feb9ba8d5dfcfb200ccc
+SHA1: 8880c9b4a8ddcdb15be018cd2febe20f5f639df4
+SHA256: 38f2dcebf4c3bc3c257e83d1748e52b85637fce35220a4223c9537a3a07fe935
+Section: Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name: shuffle
