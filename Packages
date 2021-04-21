@@ -514,7 +514,7 @@ Name:  MyFoldersTitles
 
 
 Package: com.ivanc.accent
-Version :   
+Version :   1.4.0
 Architecture: iphoneos-arm
 Maintainer:  Abu Anas
 Depends : mobilesubstrate, firmware (>= 10.0), preferenceloader, ws.hbang.common, applist
