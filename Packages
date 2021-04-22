@@ -631,3 +631,26 @@ Depiction: https://abuanas52.github.io/abuanas/
 Name:  Shark
 
 
+
+Package:  me.ahmedbafkir.dleasy
+Version :  2.11.2
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Pre-Depends :
+Depends : mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts : 
+Priority : 
+Replaces : 	
+Compatibility :  iOS 10
+Filename:  debs/dleasy_1.2.deb
+File
+Size:  616548
+MD5sum: 73ddcbe02da01ef36002c0fd662578c5
+SHA1:  58ce71af750ad407c25db13df33d5d248674b98a
+SHA256:  1245dc1417d3e730f031f55d7a7bd59f6df7821a5cef57d4d1bb68787454ba50
+Section:  Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  DLEasy
+
+
+
