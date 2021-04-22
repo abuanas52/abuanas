@@ -611,21 +611,23 @@ Name: AudioRecorder XS (iOS 12/13/14)
 
 
 
-Package:  me.ahmedbafkir.dleasy
-Version :  2.11.2
+Package:  com.lema.shark
+Version :  2.0
 Architecture: iphoneos-arm
 Maintainer:  Abu Anas
 Pre-Depends :
-Depends : mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Depends :  mobilesubstrate, firmware (>= 5.0)
 Conflicts : 
-Priority :
+Priority :  optional
 Replaces : 	
-Compatibility :  iOS 10
-Filename:  debs/dleasy_1.2.deb
-Size:  616548
-MD5sum: 73ddcbe02da01ef36002c0fd662578c5
-SHA1: 58ce71af750ad407c25db13df33d5d248674b98a
-SHA256:  1245dc1417d3e730f031f55d7a7bd59f6df7821a5cef57d4d1bb68787454ba50
-Section:  Tweaks
+Compatibility :  iOS 5+
+Filename:  debs/shark_2.0.deb
+Size:  2860912
+MD5sum:  ef8b6425a2eb8e0846c1404c5401a262
+SHA1:   9e7f15db8a94a94341e9e7b323e6ca5b011f4453
+SHA256: cfe4a1f719003a3bcdc071b9de9282c582bc4187ca4ffd34680f4505f95a169a
+Section:   Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
-Name:  DLEasy
+Name:  Shark
+
+
