@@ -623,7 +623,6 @@ Priority :
 Replaces : 	
 Compatibility :  iOS 10
 Filename:  debs/dleasy_1.2.deb
-File
 Size:  616548
 MD5sum: 73ddcbe02da01ef36002c0fd662578c5
 SHA1:  58ce71af750ad407c25db13df33d5d248674b98a
@@ -634,23 +633,23 @@ Name:  DLEasy
 
 
 
-Package:  com.lema.shark
-Version :  2.0
+Package:  jp.r-plus.deletecut
+Version :  0.6
 Architecture: iphoneos-arm
 Maintainer:  Abu Anas
 Pre-Depends :
-Depends :  mobilesubstrate, firmware (>= 5.0)
-Conflicts : 
-Priority :  optional
-Replaces : 	
-Compatibility :  iOS 5+
-Filename:  debs/shark_2.0.deb
-Size:  2860912
-MD5sum:  ef8b6425a2eb8e0846c1404c5401a262
-SHA1:   9e7f15db8a94a94341e9e7b323e6ca5b011f4453
-SHA256: cfe4a1f719003a3bcdc071b9de9282c582bc4187ca4ffd34680f4505f95a169a
-Section:   Tweaks
+Depends :  mobilesubstrate, firmware (>= 8.0), preferenceloader
+Conflicts :  jp.r-plus.shiftdelword
+Priority : 
+Replaces :  jp.r-plus.shiftdelword
+Compatibility :   iOS 8+
+Filename:  debs/deletecut_0.6.deb
+Size:  79764
+MD5sum:  d9b480e25e2b3f4d692312f3cc9f49bd
+SHA1:   69e6768862544ebcfa97ff9ca255725939f6e619
+SHA256:  9cab7bcd11f9f5135b6e00ca6b6f1dc6045657d3b9300333a2a130dfc913bec3
+Section:  Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
-Name:  Shark
+Name:  DeleteCut
 
 
