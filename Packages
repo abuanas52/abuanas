@@ -699,9 +699,9 @@ Compatibility : iOS 3+
 Filename:  debs/applist_1.5.16_iphoneos-arm.deb
 Size: 105098
 MD5sum: af1bdc77dd1805c249d416fa96957841
-SHA1:  843d2b873ad29a848c701af51f2e8a524770bc3a
+SHA1: 843d2b873ad29a848c701af51f2e8a524770bc3a
 SHA256: b20901679ecd9a607636dd69d1c42fe074f6a3e8a5c21c20ecef893f1a9a4a7e
-Section: Tweaks
+Section: النظام
 Depiction: https://abuanas52.github.io/abuanas/
 Name: AppList
 
