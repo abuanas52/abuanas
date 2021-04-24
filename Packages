@@ -705,3 +705,19 @@ Section: النظام
 Depiction: https://abuanas52.github.io/abuanas/
 Name: AppList
 
+
+
+Package: com.spark.easyswitcherx
+Version :  2.0.1
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends : mobilesubstrate, preferenceloader
+Filename:  debs/2.0.1.deb
+Size: 74690
+MD5sum:  d136229106a2fe041d7a25e9bbffec68
+SHA1:  841fc40395d2b359850dfccbc3367303a94c6a06
+SHA256:  ceaa3ec4d64a1691f34e1a3ab98f5b0ffebc2ea2b7660cb3e52c640e4e11edaa
+Section: Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name: EasySwitcherX
+
