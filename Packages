@@ -723,3 +723,21 @@ Name: EasySwitcherX
 
 
 
+Package:  com.cannathea.afc2d-arm64
+Version :  1.1.5-1
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Pre-Depends : dpkg (>= 1.14.25-8)
+Depends : cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts : com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces : com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename:  debs/afc2kppless_1.1.5-1.deb
+Size:  14486
+MD5sum:  c57f2a538b007e8f655ddcb3140804a1
+SHA1: 39ae9a6107ae67236ec5011530b08ef594248341
+SHA256:  488e4e86a97bdfcb12c396d14c9bc3e8666e810c5435023d7d8b530b5924e391
+Section:  System
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  Apple File Conduit "2" (iOS 11+, arm64)
+
+
