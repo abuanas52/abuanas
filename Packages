@@ -760,3 +760,21 @@ Depiction: https://abuanas52.github.io/abuanas/
 Name: ReProvision Reborn
 
 
+
+Package:  com.fouadraheb.watusi
+Version :  1.4.3
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends :
+Replaces :
+Compatibility :
+Filename:  debs/com.fouadraheb.watusi_1.4.3_iphoneos-arm.deb
+Size: 3973238
+MD5sum: 88ba3e99a1f79c4efdbbd9965e834a98
+SHA1:  6ab432a102a183f6d81ce58d3ca1b65046879f75
+SHA256:  67febaa061a995768694c7fa62026394da9e1be1acdd8f5397eed005bfbeca2d
+Section:  Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  Watusi 2 for WhatsApp
+
+
