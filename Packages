@@ -741,3 +741,22 @@ Depiction: https://abuanas52.github.io/abuanas/
 Name:  Apple File Conduit "2" (iOS 11+, arm64)
 
 
+
+Package: jp.soh.reprovision
+Version :  
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Depends : firmware (>= 9.0)
+Replaces : com.matchstic.Extender-Installer, com.matchstic.reprovision
+Priority : optional
+Compatibility : iOS 9+
+Filename:  debs/605c561d3ef224001ad5acf9.deb
+Size:  14667432
+MD5sum: d1f99bfa8aa62d5281416c973c9d12ce
+SHA1: d5c24c64df51f891a1e94b8d45bdeb997650d79f
+SHA256: 48b09b6d92e45ccd49c4249a025592247c9283342561b3615d532acc16844c43
+Section:  System
+Depiction: https://abuanas52.github.io/abuanas/
+Name: ReProvision Reborn
+
+
