@@ -743,7 +743,7 @@ Name:  Apple File Conduit "2" (iOS 11+, arm64)
 
 
 Package: jp.soh.reprovision
-Version :  
+Version :  0.6.2~release
 Architecture: iphoneos-arm
 Maintainer:  Abu Anas
 Depends : firmware (>= 9.0)
