@@ -690,18 +690,18 @@ Name:  Exsto (iOS 13 to 14)
 
 
 Package: applist
-Version :  1.5.16
+Version :  1.5.16~beta1
 Architecture: iphoneos-arm
 Maintainer:  Abu Anas
-Depends : mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
-Conflicts : com.a3tweaks.polus (<< 2.0.7)
+Depends :  mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts : com.a3tweaks.polus (<< 2.0.7) :
 Compatibility : iOS 3+
-Filename:  debs/applist_1.5.16_iphoneos-arm.deb
-Size: 105098
-MD5sum: af1bdc77dd1805c249d416fa96957841
-SHA1: 843d2b873ad29a848c701af51f2e8a524770bc3a
-SHA256: b20901679ecd9a607636dd69d1c42fe074f6a3e8a5c21c20ecef893f1a9a4a7e
-Section: النظام
+Filename:  debs/applist_1.5.16~beta1_iphoneos-arm.deb
+Size:  105762
+MD5sum:  55a1932ed038b5d53985cfd66a590dfa
+SHA1:  77431fdde32351bf07d2c340ef87c8c83872b210
+SHA256:   e0903791e57fa54e97b464df28d02f0a07110f741fc9bc032a69c0d1c9d57a80
+Section:  System
 Depiction: https://abuanas52.github.io/abuanas/
 Name: AppList
 
