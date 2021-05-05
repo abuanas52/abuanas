@@ -779,3 +779,18 @@ Name: AppList
 
 
 
+
+Package:  debianutils
+Version :  4.11.2
+Architecture: iphoneos-arm
+Maintainer:  Abu Anas
+Priority : required
+Filename:  debs/debianutils_4.11.2_iphoneos-arm.deb
+Size:  35480
+MD5sum:  e0795b89e9c566d055299b2772410c05
+SHA1:  b3751c20d158d90314ffa1d9299b65b4bfa4c948
+SHA256:   1e87c618fee1964a7afb0619d5448131a1f0d62d414d9ddbb677354743fecaea
+Section:  Utilities
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  Debian Utilities
+
